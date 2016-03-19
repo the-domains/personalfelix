@@ -2,6 +2,7 @@ name: PersonalFelix
 favicon: null
 layout_spectrum: 0.2070890984032303
 typography_spectrum: 0.8522259257733822
+title: "Felix Leonhardt's Personal Blog"
 cta:
   domain: null
   bucket: null
